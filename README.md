@@ -16,12 +16,12 @@ El taller consta de dos partes principales:
 
 En esta parte, exploraremos las funciones y capacidades de OpenCV para procesar imágenes. Cubriremos los siguientes temas:
 
-1. Lectura y visualización de imágenes
-2.   Manipulación de canales de color
-3.   Aplicación de filtros y mejoras de imagen
+1.  Lectura y visualización de imágenes
+2.  Manipulación de canales de color
+3.  Aplicación de filtros y mejoras de imagen
 4.  Detección de bordes
-5.   Segmentación de imágenes
-6.   Transformaciones geométricas
+5.  Segmentación de imágenes
+6.  Transformaciones geométricas
 7.  Aplicación de máscaras
 8.  Extracción de características
  # Parte 2: Reconocimiento de matrículas y reconocimiento facial
@@ -36,7 +36,7 @@ En esta parte, exploraremos las funciones y capacidades de OpenCV para procesar 
 En este repositorio encontrarás los siguientes archivos y carpetas:
 
 1. ``` procesamiento.ipynb```: Jupyter Notebook con el código y ejemplos para la parte 1 del taller.
-2. plates.ipynb: Jupyter Notebook con el código y ejemplos para la parte 2å del taller.
+2. ```plates.ipynb```: Jupyter Notebook con el código y ejemplos para la parte 2å del taller.
 3. ``` static/```: Carpeta que contiene imágenes de muestra para utilizar en los ejemplos.
 4. ```plates.py```: Script para generar csv con las matriculas recogidas en las fotos.
 # Instrucciones de uso
