@@ -9,10 +9,10 @@ Antes de comenzar el taller, asegúrate de tener instalado lo siguiente:
 - OpenCV
 - Tesseract OCR (para el reconocimiento de matrículas)
 
-* Contenido del taller
+ # Contenido del taller
 El taller consta de dos partes principales:
 
-** Parte 1: Procesamiento de imágenes con OpenCV **
+* Parte 1: Procesamiento de imágenes con OpenCV *
 
 En esta parte, exploraremos las funciones y capacidades de OpenCV para procesar imágenes. Cubriremos los siguientes temas:
 
