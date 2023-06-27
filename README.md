@@ -24,14 +24,21 @@ En esta parte, exploraremos las funciones y capacidades de OpenCV para procesar 
 6.  Transformaciones geométricas
 7.  Aplicación de máscaras
 8.  Extracción de características
+
+![img](static/figure4.png)
  # Parte 2: Reconocimiento de matrículas y reconocimiento facial
     En esta parte, nos centraremos en técnicas avanzadas utilizando OpenCV y Tesseract OCR para reconocer matrículas y caras en imágenes. Cubriremos los siguientes temas:
+|      |      |      |
+|------|------|------|
+| ![Foto 1](static/figure.png) | ![Foto 2](static/figure2.png) | ![Foto 3](static/figure3.png) |
 
 1. Preprocesamiento de imágenes para el reconocimiento de matrículas
 2. Detección y extracción de regiones de interés (ROI) en imágenes de matrículas
 3. Aplicación de OCR para el reconocimiento de caracteres en las matrículas
 4. Uso de algoritmos de reconocimiento facial para identificar caras en imágenes
 5. Extracción de características faciales y comparación de rostros
+
+![img](static/prueba.png)
 # Estructura del repositorio
 En este repositorio encontrarás los siguientes archivos y carpetas:
 
