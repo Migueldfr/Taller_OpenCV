@@ -12,18 +12,19 @@ Antes de comenzar el taller, asegúrate de tener instalado lo siguiente:
 * Contenido del taller
 El taller consta de dos partes principales:
 
-- Parte 1: Procesamiento de imágenes con OpenCV
+** Parte 1: Procesamiento de imágenes con OpenCV **
+
 En esta parte, exploraremos las funciones y capacidades de OpenCV para procesar imágenes. Cubriremos los siguientes temas:
 
-    Lectura y visualización de imágenes
-    Manipulación de canales de color
-    Aplicación de filtros y mejoras de imagen
-    Detección de bordes
-    Segmentación de imágenes
-    Transformaciones geométricas
-    Aplicación de máscaras
-    Extracción de características
-- Parte 2: Reconocimiento de matrículas y reconocimiento facial
+1. Lectura y visualización de imágenes
+2.   Manipulación de canales de color
+3.   Aplicación de filtros y mejoras de imagen
+4.  Detección de bordes
+5.   Segmentación de imágenes
+6.   Transformaciones geométricas
+7.  Aplicación de máscaras
+8.  Extracción de características
+* Parte 2: Reconocimiento de matrículas y reconocimiento facial *
     En esta parte, nos centraremos en técnicas avanzadas utilizando OpenCV y Tesseract OCR para reconocer matrículas y caras en imágenes. Cubriremos los siguientes temas:
 
 Preprocesamiento de imágenes para el reconocimiento de matrículas
