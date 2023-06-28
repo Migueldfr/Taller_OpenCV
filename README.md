@@ -25,7 +25,7 @@ En esta parte, exploraremos las funciones y capacidades de OpenCV para procesar 
 7.  Aplicación de máscaras
 8.  Extracción de características
 
-![img](static/figure4.png)
+![img](static/figure5.png)
  # Parte 2: Reconocimiento de matrículas y reconocimiento facial
     En esta parte, nos centraremos en técnicas avanzadas utilizando OpenCV y Tesseract OCR para reconocer matrículas y caras en imágenes. Cubriremos los siguientes temas:
 |      |      |      |
